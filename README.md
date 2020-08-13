@@ -8,4 +8,4 @@ https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml
 
 The current data set incldes data on rates of income, obesity, poverty, etc. by state.
 
-created a scatter plot between two of the data variables such as : Healthcare vs. Poverty or Smokers vs. Age.
+created a scatter plot between two of the data variables such as : Healthcare vs. Poverty or Smokers vs. Age
